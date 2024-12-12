@@ -1,0 +1,97 @@
+/* Основные стили для контейнера */
+.container-list-jobs {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    padding: 20px;
+}
+.container-filter-tours {
+    display: flex;
+    padding: 20px;
+    gap: 26px;
+}
+/* Навигационные ссылки */
+.link-page a {
+    color: #000000;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.link-page a:hover {
+    text-decoration: underline;
+}
+
+.link-page {
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+/* Заголовок страницы */
+.jobs-header h1 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Контейнер для списка вакансий */
+.list-jobs {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+/* Стили для одной вакансии */
+.job-item {
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.job-header h2 {
+    font-size: 20px;
+    color: #0735db;
+    margin: 0 0 10px;
+}
+
+.job-header .job-location {
+    font-size: 14px;
+    color: #666;
+}
+
+.job-details p {
+    font-size: 14px;
+    color: #333;
+    margin: 5px 0;
+}
+
+.job-details strong {
+    color: #0735db;
+}
+
+/* Стили для сообщения об отсутствии вакансий */
+.no-jobs {
+    text-align: center;
+    font-size: 16px;
+    color: #666;
+    margin-top: 20px;
+}
+.filter {
+    flex: 1;
+    background-color: #ffffff;
+    margin: 0 48px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    height: fit-content;
+}
+@media (max-width: 768px) {
+    .container-list-jobs {
+        padding: 20px;
+    }
+
+    .job-item {
+        padding: 15px;
+    }
+
+}

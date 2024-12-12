@@ -1,0 +1,29 @@
+@model List<Domain.ViewModel.CategoriesViewModel>
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<div class="container-countries">
+    <div class="link-page"><a href="/Home/Index">Главная</a> > Категории</div>
+
+    <div class="grid-container">
+        @if (Model.Count != 0)
+        {
+            @foreach (var item in Model)
+            {
+                <div class="card-country" onclick="window.location.href ='@Url.Action("ListOfJobs","Home", new {Id = item.Id})'">
+                    <img src="@item.PathImg" alt="@item.Name" class="card-image" />
+                    <div class="card-overlay">
+                        <div class="card-title">@item.Name</div>
+                        <p class="card-description">
+                             @item.Description <br />
+                           
+                        </p>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</div>

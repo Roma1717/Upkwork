@@ -1,0 +1,70 @@
+C:\Users\kab-35-17\Desktop\Удадить\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\kab-35-17\Desktop\Удадить\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\kab-35-17\Desktop\Удадить\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\kab-35-17\Desktop\Удадить\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kab-35-17\Desktop\Удадить\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\kab-35-17\Desktop\Удадить\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\kab-35-17\Desktop\Удадить\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\kab-35-17\Desktop\Удадить\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\kab-35-17\Desktop\Удадить\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\kab-35-17\Desktop\Удадить\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\kab-35-17\Desktop\Удадить\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\admin\Desktop\Удадить\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\admin\Desktop\Удадить\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\admin\Desktop\Удадить\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\admin\Desktop\Удадить\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Удадить\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Удадить\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\admin\Desktop\Удадить\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Удадить\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\admin\Desktop\Удадить\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\admin\Desktop\Удадить\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\admin\Desktop\Удадить\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Hi-tech\Desktop\Удадить\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Hi-tech\Desktop\Удадить\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Hi-tech\Desktop\Удадить\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Hi-tech\Desktop\Удадить\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi-tech\Desktop\Удадить\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Hi-tech\Desktop\Удадить\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Hi-tech\Desktop\Удадить\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Desktop\Удадить\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Hi-tech\Desktop\Удадить\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Hi-tech\Desktop\Удадить\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Hi-tech\Desktop\Удадить\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Hi-tech\Desktop\Удадить\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\Desktop\Удадить — копия\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Hi-tech\Desktop\Удадить — копия\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Hi-tech\Desktop\Удадить — копия\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Hi-tech\Desktop\Удадить — копия\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\Desktop\Удадить — копия\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi-tech\Desktop\Удадить — копия\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Hi-tech\Desktop\Удадить — копия\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Hi-tech\Desktop\Удадить — копия\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Desktop\Удадить — копия\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Hi-tech\Desktop\Удадить — копия\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Hi-tech\Desktop\Удадить — копия\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Hi-tech\Desktop\Удадить — копия\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Hi-tech\Desktop\прок djn 'njn\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Hi-tech\Desktop\прок djn 'njn\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Hi-tech\Desktop\прок djn 'njn\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Hi-tech\Desktop\прок djn 'njn\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\Desktop\прок djn 'njn\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi-tech\Desktop\прок djn 'njn\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Hi-tech\Desktop\прок djn 'njn\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Hi-tech\Desktop\прок djn 'njn\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Desktop\прок djn 'njn\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Hi-tech\Desktop\прок djn 'njn\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Hi-tech\Desktop\прок djn 'njn\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Hi-tech\Desktop\прок djn 'njn\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\Domain\obj\Debug\net8.0\ref\Domain.dll

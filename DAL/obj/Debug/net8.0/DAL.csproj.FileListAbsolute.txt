@@ -1,0 +1,90 @@
+C:\Users\kab-35-17\Desktop\Удадить\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\kab-35-17\Desktop\Удадить\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\kab-35-17\Desktop\Удадить\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\kab-35-17\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\kab-35-17\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kab-35-17\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\kab-35-17\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\kab-35-17\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\kab-35-17\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\kab-35-17\Desktop\Удадить\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\kab-35-17\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\kab-35-17\Desktop\Удадить\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\kab-35-17\Desktop\Удадить\DAL\bin\Debug\net8.0\Domain.dll
+C:\Users\kab-35-17\Desktop\Удадить\DAL\bin\Debug\net8.0\Domain.pdb
+C:\Users\kab-35-17\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\kab-35-17\Desktop\Удадить\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\kab-35-17\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\admin\Desktop\Удадить\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\admin\Desktop\Удадить\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\admin\Desktop\Удадить\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\admin\Desktop\Удадить\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\admin\Desktop\Удадить\DAL\bin\Debug\net8.0\Domain.dll
+C:\Users\admin\Desktop\Удадить\DAL\bin\Debug\net8.0\Domain.pdb
+C:\Users\admin\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\admin\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\admin\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\admin\Desktop\Удадить\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\admin\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\admin\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\admin\Desktop\Удадить\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\User\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\Удадить\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\прок djn 'njn\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\User\Desktop\прок djn 'njn\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\User\Desktop\прок djn 'njn\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\User\Desktop\прок djn 'njn\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\User\Desktop\прок djn 'njn\DAL\bin\Debug\net8.0\Domain.dll
+C:\Users\User\Desktop\прок djn 'njn\DAL\bin\Debug\net8.0\Domain.pdb
+C:\Users\User\Desktop\прок djn 'njn\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\прок djn 'njn\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\прок djn 'njn\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\прок djn 'njn\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\прок djn 'njn\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\прок djn 'njn\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\User\Desktop\прок djn 'njn\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\User\Desktop\прок djn 'njn\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\User\Desktop\прок djn 'njn\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\User\Desktop\прок djn 'njn\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\User\Desktop\прок djn 'njn\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Hi-tech\Desktop\прок djn 'njn\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Hi-tech\Desktop\прок djn 'njn\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Hi-tech\Desktop\прок djn 'njn\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Hi-tech\Desktop\прок djn 'njn\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Hi-tech\Desktop\прок djn 'njn\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\Hi-tech\Desktop\прок djn 'njn\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Hi-tech\Desktop\прок djn 'njn\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Hi-tech\Desktop\прок djn 'njn\DAL\bin\Debug\net8.0\Domain.dll
+C:\Users\Hi-tech\Desktop\прок djn 'njn\DAL\bin\Debug\net8.0\Domain.pdb
+C:\Users\Hi-tech\Desktop\прок djn 'njn\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\Desktop\прок djn 'njn\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi-tech\Desktop\прок djn 'njn\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Hi-tech\Desktop\прок djn 'njn\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Hi-tech\Desktop\прок djn 'njn\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Desktop\прок djn 'njn\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\Hi-tech\Desktop\прок djn 'njn\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\Hi-tech\Desktop\прок djn 'njn\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\DAL\bin\Debug\net8.0\Domain.dll
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\DAL\bin\Debug\net8.0\Domain.pdb
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\Hi-tech\Desktop\прок djn 'HJKKJGKUnjn\DAL\obj\Debug\net8.0\ref\DAL.dll

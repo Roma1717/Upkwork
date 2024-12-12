@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - WebApplication1</title>
+    <link href="~/css/shared.css" rel="stylesheet" />
+    <link href="~/css/home.css" rel="stylesheet" />
+    <link href="~/css/login_and_registration.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/media_style.css" />
+    <link rel="stylesheet" href="~/css/catigories.css">
+    <link rel="stylesheet" href="~/css/jobstyles.css"/>
+    <link rel="stylesheet" href="~/css/filter.css"/>
+    
+    
+    
+</head>
+<body>
+    <img class="img-logo" src="~/img/icon-logo.png" />
+    <div id="header__top">
+        <div class="logo">UPkwork</div>
+    <div id="hamburger"class="icon">Вход</div>
+        <div class="button-header">
+            @if (User.Identity.IsAuthenticated)
+            {
+                <button class="button" type="button" name="button" onclick="window.location.href = '@Url.Action("Logout", "Home")'">Выйти</button>
+            }
+            @if (!User.Identity.IsAuthenticated)
+            {
+                    <button class="button" id="click-to-hide">Войти</button>
+            }
+        </div>
+    
+    
+</div>
+<img class="img-header" src="~/img/fon.jpg"/>
+<div id="header-bottom">
+    <div class="menu">
+        <ul>
+            <li><a href="/Home/Index">Главная</a></li>
+            <li><a href="#contact">Контакты</a></li>
+            <li><a href="/Home/ListOfCountries">Категории</a></li>
+            <li><a href="#services">Услуги</a></li>
+        </ul>
+    </div>
+    </div>
+
+    <div id="side-menu" class="side-menu">
+        <div>
+            <ul>
+                <li><a href="/Home/Index">Главная</a></li>
+                <li><a href="#contact">Контакты</a></li>
+                <li><a href="/Home/ListOfCountries">Категории</a></li>
+                <li><a href="#services">Услуги</a></li>
+            </ul>
+        </div>
+        <button class="button" id="side-menu-button-click-to-hide" type="button" name="button">Войти</button>
+    </div>
+@await Html.PartialAsync("_LoginRegistrationPartial")
+@await Html.PartialAsync("_ConfirmEmailPartial")
+<div class="container">
+        <main role="main" class="pb-3">
+@RenderBody()
+        </main>
+</div>
+        <footer>
+            <div class="footer-left">
+            <div class="logo">UPkwork </div>
+            <p>
+                Добро пожаловать на наш сайт для поиска работы и размещения вакансий!
+                Здесь работодатели находят лучших специалистов, а соискатели — работу, которая подходит именно им.
+                Удобный поиск, актуальные вакансии и подробные резюме помогают быстро и легко связаться с нужными людьми.
+                Присоединяйтесь, чтобы найти возможности для карьерного роста или подобрать идеального сотрудника для вашей компании!
+                </p>
+                <div class="footer-TravelAgency">
+                &copy; 2024 - UPkwork- 
+                </div>
+            </div>
+            <div class="footer-right">
+                <div class="menu">
+                    <ul>
+                        <li><a href="/Home/Index">Главная</a></li>
+                        <li><a href="#contact">Контакты</a></li>
+                        <li><a href="/Home/ListOfCountries">Категории</a></li>
+                        <li><a href="#services">Услуги</a></li>
+                    </ul>
+                </div>
+            </div>
+        </footer>
+<script src="~/js/chared_script.js" asp-append-version="true"></script>
+<script src="~/js/shared_script.js" asp-append-version="true"></script>
+<script src="~/js/home_script.js" asp-append-version="true"></script>
+<script src="~/js/login_and_registration_script.js" asp-append-version="true"></script>
+<script src="~/js/filter.js" asp-append-version="true"></script>
+</body>
+</html>
