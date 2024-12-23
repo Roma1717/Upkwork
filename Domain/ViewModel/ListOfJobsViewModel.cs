@@ -6,8 +6,7 @@ public class ListOfJobsViewModel
     
     public Guid Category_id { get; set; }
 }
-
-public class JobsForListOfJobsViewModel
+public partial class JobsForListOfJobsViewModel
 {
     public Guid Id { get; set; }
 
@@ -19,7 +18,7 @@ public class JobsForListOfJobsViewModel
 
     public string Requirements { get; set; }
 
-    public int salary { get; set; }
+    public int Salary { get; set; }
 
     public string Location { get; set; }
 

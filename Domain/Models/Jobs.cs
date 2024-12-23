@@ -12,7 +12,7 @@ namespace Domain.Models
 
         public string Requirements { get; set; }
 
-        public int salary { get; set; }
+        public int Salary { get; set; }
 
         public string Location { get; set; }
 

@@ -20,7 +20,7 @@ public class JobsDb
     public string Requirements { get; set; }
     
     [Column("salary")]
-    public int salary { get; set; }
+    public int Salary { get; set; }
     
     [Column("location")]
     public string Location { get; set; }
