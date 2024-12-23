@@ -46,5 +46,4 @@ public class CategoriesStorage : IBaseStorage<CategoriesDb>
 
         return item;
     }
-    
 }

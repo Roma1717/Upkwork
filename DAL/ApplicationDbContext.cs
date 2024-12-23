@@ -3,9 +3,6 @@ using Microsoft.EntityFrameworkCore;
 using Npgsql.EntityFrameworkCore.PostgreSQL;
 using Domain.ModelsDb;
 
-
-
-
 namespace DAL;
 
     public class ApplicationDbContext : DbContext
@@ -17,6 +14,7 @@ namespace DAL;
 
         public DbSet<JobsDb> JobsDb { get; set; }
         public DbSet<ApplicationsDb> ApplicationsDb { get; set; }
+        public DbSet<CartDb> ArchiveDb { get; set; }
 
         protected readonly IConfiguration Configuration;
 
